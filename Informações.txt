@@ -1,0 +1,15 @@
+<title>Machado de Assis</title>: Define o título da página exibido na barra de título do navegador.
+<style>: Define estilos CSS diretamente na página HTML. No exemplo fornecido, são definidos estilos para o corpo da página, cabeçalho, navegação, conteúdo e rodapé.
+------ CSS:
+body: Define estilos para o corpo da página, como a fonte padrão e margens.
+header: Estiliza o cabeçalho da página, definindo a cor de fundo, a cor do texto e o alinhamento do texto.
+nav: Estiliza a barra de navegação, definindo a cor de fundo, a cor do texto e o espaçamento entre os links.
+.container: Define estilos para o contêiner principal da página, limitando a largura, centralizando o conteúdo e adicionando margens.
+.content: Estiliza as seções de conteúdo, adicionando margens ao topo.
+footer: Estiliza o rodapé da página, definindo a cor de fundo, a cor do texto, o alinhamento do texto e fixando-o na parte inferior da página.
+----- Estrutura HTML:
+<header>: Contém o título principal da página.
+<nav>: Contém links de navegação que direcionam o usuário para diferentes seções do site.
+<div class="container">: Define uma seção para o conteúdo principal da página, com largura limitada e margens.
+<div class="content">: Cada uma destas divisões contém uma seção específica do conteúdo, como biografia, obras e legado.
+<footer>: Contém informações de rodapé - parte q faz uma linha foda
